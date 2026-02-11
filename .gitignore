@@ -1,0 +1,15 @@
+﻿# Gradle
+.gradle
+build/
+
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/# Kotlin
+.kotlin
+
+# OS
+.DS_Store
